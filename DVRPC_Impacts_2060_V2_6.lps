@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="53"/>
+        <CursorPos Y="100"/>
+        <UsageCount Value="167"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpspreadsheet-1.10.1\source\common\fpsreaderwriter.pas"/>
+        <UnitName Value="fpsReaderWriter"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1252"/>
+        <CursorPos X="6" Y="1271"/>
+        <UsageCount Value="2"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="DVRPC_Impacts_2050_V2_1.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="30" Y="5"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="103" TopLine="52"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="2580" Column="87" TopLine="2530"/>
+      </Position2>
+      <Position3>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3406" Column="31" TopLine="3374"/>
+      </Position3>
+      <Position4>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3401" Column="6" TopLine="3376"/>
+      </Position4>
+      <Position5>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3416" Column="68" TopLine="3376"/>
+      </Position5>
+      <Position6>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3464" Column="12" TopLine="3416"/>
+      </Position6>
+      <Position7>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="31" Column="47"/>
+      </Position7>
+      <Position8>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="788" Column="19" TopLine="760"/>
+      </Position8>
+      <Position9>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+      </Position9>
+      <Position10>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="718" Column="18" TopLine="673"/>
+      </Position10>
+      <Position11>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="720" Column="25" TopLine="675"/>
+      </Position11>
+      <Position12>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="2528" Column="4" TopLine="2511"/>
+      </Position12>
+      <Position13>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="100" Column="20" TopLine="53"/>
+      </Position13>
+      <Position14>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="103" Column="7" TopLine="58"/>
+      </Position14>
+      <Position15>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="2567" Column="23" TopLine="2516"/>
+      </Position15>
+      <Position16>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3404" TopLine="3363"/>
+      </Position16>
+      <Position17>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3406" Column="19" TopLine="3363"/>
+      </Position17>
+      <Position18>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3176" Column="4" TopLine="3161"/>
+      </Position18>
+      <Position19>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="787" Column="34" TopLine="756"/>
+      </Position19>
+      <Position20>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="53" TopLine="53"/>
+      </Position20>
+      <Position21>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="100" Column="21" TopLine="54"/>
+      </Position21>
+      <Position22>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="2552" TopLine="2528"/>
+      </Position22>
+      <Position23>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="209" TopLine="208"/>
+      </Position23>
+      <Position24>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3405" TopLine="3368"/>
+      </Position24>
+      <Position25>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="3403" Column="19" TopLine="3376"/>
+      </Position25>
+      <Position26>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Column="25"/>
+      </Position26>
+      <Position27>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="798" Column="91" TopLine="769"/>
+      </Position27>
+      <Position28>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="804" Column="43" TopLine="769"/>
+      </Position28>
+      <Position29>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="2582" TopLine="2550"/>
+      </Position29>
+      <Position30>
+        <Filename Value="DVRPC_Impacts_2060_V2_6.pas"/>
+        <Caret Line="2588" TopLine="2550"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
